@@ -1,0 +1,16 @@
+{
+  "Organização": [
+    {
+      "pergunta": "A estrutura é clara?",
+      "resposta": "Sim",
+      "pontos": 3
+    }
+  ],
+  "Indicadores": [
+    {
+      "pergunta": "Indicadores são monitorados?",
+      "resposta": "Parcialmente",
+      "pontos": 5
+    }
+  ]
+}
